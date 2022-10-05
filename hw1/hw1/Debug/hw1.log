@@ -1,0 +1,10 @@
+﻿  2.33.c
+C:\Users\User02\OneDrive\桌面\HW1\hw1\hw1\2.33.c(20): warning C4716: 'c8main': 必須傳回值
+2.23.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.24.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.25.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.26.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.27.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.31.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+2.32.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
+C:\Users\User02\OneDrive\桌面\HW1\hw1\Debug\hw1.exe : fatal error LNK1169: 找到有一或多個已定義的符號
